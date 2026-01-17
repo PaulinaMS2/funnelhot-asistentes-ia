@@ -7,7 +7,7 @@
 git clone <URL_DEL_REPOSITORIO>
 cd <NOMBRE_DEL_PROYECTO>
 ```
-2. Clonar el repositorio:
+2. Instalar dependencias:
 
 ```bash
 npm install
@@ -23,9 +23,6 @@ yarn dev
 ```
 3. Abrir en el navegador:
 
-[```bash
-
-```](http://localhost:3000
-)
+(http://localhost:3000)
 
 
