@@ -1,4 +1,4 @@
-#Gestión Asistentes IA
+# Gestión Asistentes IA
 
 Este proyecto es una aplicación frontend desarrollada como prueba técnica, cuyo objetivo es gestionar asistentes de IA: crearlos, editarlos, entrenarlos y simular conversaciones, priorizando una buena experiencia de usuario, manejo correcto del estado y una arquitectura clara.
 
